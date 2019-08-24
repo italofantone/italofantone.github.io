@@ -2,9 +2,5 @@
 
 _CEO & Founder community of web programmers Rimorsoft Online._
 
-## Gratitude
-
-_Our community of web programmers **Rimorsoft Online**_
-
 ---
-_file v1.0_
+_file v1.3_
