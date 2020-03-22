@@ -16,11 +16,11 @@ h2 {
 }
 h2 img {
     border-radius: 50%;
-    border: 1px solid #00aced;
+    border: 3px solid #00aced;
     float: left;
     margin-right: 5px;
 }
-p {
+p, ul {
     font-size: 1.6em;
     font-weight: 300;
     line-height: 1.4;
@@ -44,4 +44,16 @@ a:after {
 }
 a:hover:after {
     top: 0%;
+}
+.platzi, .styde {    
+    margin-right: 30px;
+}
+.platzi img {
+    height: 80px;
+}
+.styde img {
+    height: 80px;
+}
+.rimorsoft img {
+    height: 80px;
 }
