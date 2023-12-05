@@ -1,6 +1,4 @@
-# @italomoralesf - My simple CV
-
-_CEO & Founder community of web programmers Rimorsoft Online._
+My website is [https://italofantone.com](https://italofantone.com)
 
 ---
-_file v1.3_
+_file v2_
